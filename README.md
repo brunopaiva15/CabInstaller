@@ -1,6 +1,6 @@
 # CabInstaller
 
-CabInstaller is an open-source .CAB files installer for Windows.
+CabInstaller is an open-source .CAB files installer (drivers only) for Windows.
 
 ## ✉ Import the project
 
