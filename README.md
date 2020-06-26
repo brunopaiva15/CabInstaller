@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/cabinstaller/badge)](https://www.codefactor.io/repository/github/brunopaiva15/cabinstaller)
+
 # CabInstaller
 
 CabInstaller is an open-source .CAB files installer (drivers only) for Windows.
