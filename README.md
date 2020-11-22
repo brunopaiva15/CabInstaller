@@ -31,4 +31,4 @@ This project is licensed under the GNU General Public License Version 3 - see th
 
 ## 📥 Download
 
-Download this project : https://github.com/brunopaiva15/CabInstaller
+Last stable build : https://github.com/brunopaiva15/CabInstaller/releases/latest
